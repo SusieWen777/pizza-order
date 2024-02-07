@@ -2,7 +2,7 @@
 
 ## Tools
 
-React, Redux, TailwindCSS
+React, Redux Toolkit, TailwindCSS
 
 ## Functions
 
